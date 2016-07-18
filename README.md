@@ -1,11 +1,13 @@
 # cuddly-guacamole
 
 
-This is version 2.0 of the mz-website repo. Earlier iterations can be found in mz-website repo. (The name was suggested by github, and since this theme is very green, I liked it and picked it. So there.)
+This is version 2.0 of the [mz-website](https://github.com/mikezawitkowski/mz-website) repo, where earlier iterations can be found.
+
+Why the name of the repo? It was suggested by github, and since the theme for this website was initially very green, I went with the suggestion. So there.
 
 ## Changelog
 
- - 7/17/2016 Initial commit of cuddly-guacomole
+ - 7/17/2016 Initial commits
 
 ## TODOs
  - ~~Add a phone number~~
@@ -15,3 +17,4 @@ This is version 2.0 of the mz-website repo. Earlier iterations can be found in m
  - Decouple data from code (hard-coded for speed)
  - Add TOS
  - add mz logo
+ - nix the mail php files
