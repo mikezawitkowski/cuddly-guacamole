@@ -8,6 +8,9 @@ Why the name of the repo? It was suggested by github, and since the theme for th
 ## Changelog
 
  - 7/17/2016 Initial commits
+ - 8/9/2016
+   - Change headline statement
+
 
 ## TODOs
  - ~~Add a phone number~~
