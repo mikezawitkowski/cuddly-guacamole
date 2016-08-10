@@ -13,6 +13,7 @@ Why the name of the repo? It was suggested by github, and since the theme for th
  - 8/9/2016
    - Change headline statement
    - Add blog link to menu nav
+   - Update copyright
 
 
 ## TODOs
