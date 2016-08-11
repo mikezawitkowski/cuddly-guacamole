@@ -14,7 +14,9 @@ Why the name of the repo? It was suggested by github, and since the theme for th
    - Change headline statement
    - Add blog link to menu nav
    - Update copyright
-
+ - 8/11/2016
+   - Add MP Testimonial
+   - Change slick carousel behavior, time etc.
 
 ## TODOs
  - ~~Add a phone number~~
