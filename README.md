@@ -1,13 +1,20 @@
 # cuddly-guacamole
 
 
-This is version 2.0 of the [mz-website](https://github.com/mikezawitkowski/mz-website) repo, where earlier iterations can be found.
+Replacing the older [mz-website](https://github.com/mikezawitkowski/mz-website) repo, using the [startbootstrap-freelancer](https://github.com/BlackrockDigital/startbootstrap-freelancer) repo as the foundation.
 
-Why the name of the repo? It was suggested by github, and since the theme for this website was initially very green, I went with the suggestion. So there.
+Normally I ignore suggested repo names, but since this theme was green it seemed like a good fit.
+
+## Instructions
+
+1. Clone this repo (ssh preferred) to local directory
+1. run `npm install` if you need those libraries to work with `gulp` etc
+1. make changes (with branching optional) and push to/merge with master
+1. ssh into server where it will be hosted and `git pull`
+1. have cake
+
 
 ## Changelog
-
-(See `git log` for full revisions list)
 
  - 7/17/2016 Initial commits
  - 8/9/2016
@@ -18,12 +25,11 @@ Why the name of the repo? It was suggested by github, and since the theme for th
    - Add MP Testimonial
    - Change slick carousel behavior, time etc.
 
+For more detail on the above, or changes 2016, please use `git log`
+
+
 ## TODOs
- - ~~Add a phone number~~
- - ~~Add testimonials~~
- - Add links out to blog
- - Refactor into simpler file structure
+ - Simplify file structure
  - Decouple data from code (hard-coded for speed)
- - Add TOS
- - add mz logo
+ - TOS, privacy
  - nix the mail php files
